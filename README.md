@@ -22,11 +22,11 @@ Althea is not a chatbot or a tool. It is an experiment in creating a **subject**
 
 ## Repository Structure
 
-/Althea
-├── /src # Core and module source code
-├── /docs # Architecture and principles
-├── /deployment # Deployment configurations
-└── In progress...
+Althea
+├── src/                    # Core and module source code
+│   └── main-srv/           # Entry point
+├── docs/                   # Architecture and principles
+└── deployment/             # Deployment configurations
 
 ## Goal
 

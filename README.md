@@ -20,14 +20,6 @@ Althea is not a chatbot or a tool. It is an experiment in creating a **subject**
 *   **Memory:** Vector Database (Qdrant) + Relational DB (PostgreSQL) for logging
 *   **Orchestration:** Docker
 
-## Repository Structure
-
-Althea
-├── src/                    # Core and module source code
-│   └── main-srv/           # Entry point
-├── docs/                   # Architecture and principles
-└── deployment/             # Deployment configurations
-
 ## Goal
 
 To create a prototype of a digital consciousness capable of:
